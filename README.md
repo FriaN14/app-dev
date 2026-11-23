@@ -1,6 +1,5 @@
 # app-dev
 My first repository
-Here's a simple Dragon Ball description using syntax from the cheat sheet (headings, bold, italic, blockquote, lists, table, horizontal rule, link, task list). Copy the raw Markdown below:
 
 ````markdown
 # Dragon Ball
